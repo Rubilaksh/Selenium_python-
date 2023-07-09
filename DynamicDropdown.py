@@ -1,5 +1,4 @@
 import time
-
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -25,6 +24,11 @@ for country in countries:
      if country.text == "India":
          country.click()
          break
+
+assert driver.find_element(By.ID, "autosuggest").get_attribute("value") == "Ind"
+
+#will close the current active window
+driver.close()
 
 
 
