@@ -5,23 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="134cba8f-074a-4a6e-bca1-f4cdacefeee6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Alerthandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElementDisplayed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GK_website.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RadioButtons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discount_tc2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greenkart_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greenkart_project_ExplicitWait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greenkart_project_ImplicitWait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/radio_button_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase_discount" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validating_sum_of_price_tc1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonSelenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonSelenium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicDropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicDropdown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dynamic_dropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic_dropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actiondemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Window_Handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/action_double_click.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/context_click.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tc3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tc4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tc5-windows handelling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
