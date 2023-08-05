@@ -15,6 +15,7 @@ driver.maximize_window()
 current_window=driver.current_window_handle
 
 driver.find_element(By.LINK_TEXT,"Click Here").click()
+#window_handles method returns the set of window handles because window handles should be unique
 all_windows=driver.window_handles
 
 for each_window in all_windows:

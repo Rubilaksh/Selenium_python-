@@ -17,6 +17,7 @@ driver.maximize_window()
 driver.implicitly_wait(5)
 
 '''
+Actions: Mouse and keyboard events
 Methods inside ActionChains class,
 1. move_to_element(ele)
 2. double_click(ele)

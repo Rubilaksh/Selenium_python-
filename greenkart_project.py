@@ -35,5 +35,6 @@ driver.find_element(By.CSS_SELECTOR,".promoCode").send_keys("rahulshettyacademy"
 driver.find_element(By.CSS_SELECTOR,".promoBtn").click()
 time.sleep(5)
 
+
 coupon_code=driver.find_element(By.CSS_SELECTOR,".promoInfo").text
 assert coupon_code == "Code applied ..!"

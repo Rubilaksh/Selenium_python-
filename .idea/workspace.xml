@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="134cba8f-074a-4a6e-bca1-f4cdacefeee6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Frames_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frames-tc1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript_executor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shop-assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon_mobile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment-greenkart.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/action_double_click.py" beforeDir="false" afterPath="$PROJECT_DIR$/action_double_click.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tc5-windows handelling.py" beforeDir="false" afterPath="$PROJECT_DIR$/tc5-windows handelling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actiondemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Actiondemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RadioButtons.py" beforeDir="false" afterPath="$PROJECT_DIR$/RadioButtons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Window_Handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Window_Handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenkart_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/greenkart_project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +43,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yuvar/PycharmProjects/pythonSelenium&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yuvar/PycharmProjects/pythonProject/FunctionsEx.py&quot;
   }
 }</component>
   <component name="RecentsManager">
